@@ -29,3 +29,4 @@ Analiza pozwoliła na wyznaczenie optymalnych terenów do zalesienia. Wynikowa m
 - Na skraju istniejących lasów,
 - Na gruntach rolnych o dużym nachyleniu.
 
+![obraz](https://github.com/user-attachments/assets/774ff073-09bf-4591-87a0-f0369a50d4c1)
